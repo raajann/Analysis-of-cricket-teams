@@ -1,6 +1,6 @@
-# Analysis of cricket teams (1996 - 2007)
+# Analysis of cricket teams (1996 - 2005)
 
-I am a fan of the sport cricket ever since 2007. However, I wanted to analyze how teams performed before 2007. The goal of this project is to identify the strongest cricket team.
+I am a fan of the sport cricket ever since 2005. However, I wanted to analyze how teams performed before 2007. The goal of this project is to identify the strongest cricket team.
 
 I acquired a dataset from kaggle.com. 
 
