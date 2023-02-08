@@ -1,4 +1,4 @@
-# Tableau-Project
+# Analysis of cricket teams (1996 - 2007)
 
 I am a fan of the sport cricket ever since 2007. However, I wanted to know how teams performed before 2007. The goal of this project is to identify the strongest cricket team.
 
